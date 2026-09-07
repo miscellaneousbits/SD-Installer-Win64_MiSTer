@@ -1,6 +1,7 @@
 *
 
 !.gitignore
+!.gitattributes
 !release*
 !*.md
 !7za.gz
